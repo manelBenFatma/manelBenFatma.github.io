@@ -6,3 +6,8 @@
 .btn-primary {
   background-color: #f00;
 }
+
+.modal-header {
+  background-color: #f00;
+  color: white;
+}
