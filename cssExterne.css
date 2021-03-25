@@ -1,4 +1,9 @@
-.modal-header {
-  background-color: #214806;
-  color: white;
+h4 {
+    color: #E00000;
+    cursor: pointer;
+}
+
+.header {
+    color: white;
+    background-color: #d7c3c3;
 }
