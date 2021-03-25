@@ -1,14 +1,5 @@
-.header {
-  background-color: #e0ca00;
-  color: white;
-}
-
-.btn {
-  background-color: #f00;
-}
-
 .modal-header {
-  background-color: #f00;
+  background-color: #214806;
   color: white;
 }
 
@@ -19,6 +10,16 @@
     padding: 10px;
 }
 
-.modal-footer {
-  background-color: #6c757d;
+.form-control {
+  border: 2px solid #0854a0;
 }
+
+.form-control[readonly] {
+    background-color: #bed8f2;
+    opacity: 1;
+}
+
+.btn-primary:disabled {
+    color: #fff;
+    background-color: #93af94;
+    border-color: #93af94;
