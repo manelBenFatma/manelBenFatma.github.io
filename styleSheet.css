@@ -12,11 +12,13 @@
   color: white;
 }
 
-.telephone > i.material-icons {
-    width: 40px;
-    height: 40px;
-    position: absolute;
-    top: 7px;
-    left: 20px;
-    background-color: #e0ca00
+.button {
+    background-color: #c7e0b2;
+    border: 1px solid #253c28;
+    color: #253c28;
+    padding: 10px;
+}
+
+.modal-footer {
+  background-color: #6c757d;
 }
